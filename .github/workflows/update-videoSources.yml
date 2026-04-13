@@ -1,8 +1,8 @@
 # 版本：1.0
-# 功能：每天自动从远程获取最新的视频资源数据源列表并更新 kvideo.json
+# 功能：每天自动从远程获取最新的视频资源数据源列表并更新 kvideo.json 和 NextTV.json
 # 数据来源：https://github.com/hafrey1/LunaTV-config
 
-name: 更新 KVideo 数据源
+name: 更新 KVideo 和 NextTV 数据源
 
 on:
   schedule:
@@ -11,41 +11,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-kvideo:
+  update-videoSources:
     runs-on: ubuntu-latest
 
     steps:
-      # 检出代码
+      # 检出仓库代码
       - name: 检出仓库代码
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 获取北京时间
-      - name: 获取北京时间
-        run: |
-          echo "CURRENT_DATE=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
-
       # 运行更新脚本
       - name: 运行更新脚本
         id: update
         run: |
-          python .github/scripts/update_kvideo.py
-        continue-on-error: true
+          python .github/scripts/update_videoSources.py
 
       # 检查是否有变更
       - name: 检查变更状态
         run: |
           if git diff --staged --quiet; then
             echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
-            echo "文件无变更"
+            echo "文件无变更，跳过推送"
           else
             echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
-            echo "检测到文件变更"
+            echo "检测到文件变更，准备推送..."
+            git push
           fi
-
-      # 推送更新
-      - name: 推送更新
-        if: steps.update.outputs.HAS_CHANGES == 'true'
-        run: |
-          echo "推送更新..."
