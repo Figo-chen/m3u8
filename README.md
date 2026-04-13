@@ -22,3 +22,7 @@ https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌
 
 ### 4、IPTV
 
+### 5、KVideo
+
+- **每天0点随 hafrey1/LunaTV-config 自动更新，适用于KVideo订阅：**
+- https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/KVideo/kvideo.json
