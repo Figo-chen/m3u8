@@ -65,19 +65,8 @@
         "喜剧片"
       ]
       },
-       {
-            "key": "GuaZi",
-            "name": "🐬瓜子影视｜追剧",
-            "type": 3,
-            "api": "csp_GuaZi",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {    
-            "key": "热播影视",
+      {
+       "key": "热播影视",
             "name": "🐬热播影视｜追剧",
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_AppRJ",
@@ -133,34 +122,7 @@
         "港台动漫",
         "海外动漫"
          ]
-         }, 
-                 {
-            "key": "🐬聚合短剧",
-            "name": "聚合短剧",
-            "type": 3,
-            "api": "csp_JuheShortDrama",
-            "searchable": 1,
-            "filterable": 0,
-            "switchable": 0,
-            "ext": {
-                "host": {
-                    "百度": "https://api.jkyai.top",
-                    "甜圈": "https://mov.cenguigui.cn",
-                    "锦鲤": "https://api.jinlidj.com",
-                    "番茄": "https://reading.snssdk.com",
-                    "番茄2": "https://fqgo.52dns.cc",
-                    "星芽": "https://app.whjzjx.cn",
-                    "星芽登录": "https://u.shytkjgs.com",
-                    "西饭": "https://xifan-api-cn.youlishipin.com",
-                    "七猫": "https://api-store.qmplaylet.com",
-                    "七猫详情": "https://api-read.qmplaylet.com",
-                    "围观": "https://api.drama.9ddm.com",
-                    "碎片": "https://free-api.bighotwind.cc",
-                    "碎片图片": "https://speed.hiknz.com"
-                },
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
+         },
          {"key": "csp_Kugou",
 "name": "🐬酷狗音乐｜音乐",
 "type": 3,
@@ -205,16 +167,6 @@
 			"name": "🐬动漫巴士｜动漫",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
-		},
-        {
-			"key": "market",
-			"name": "🐬OK影视应用更新",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
 		},
          {
             "key": "黄色仓库|AV",
@@ -704,19 +656,19 @@
     ],
 "lives": [
          {
-            "name": "🐬地方直播 TG:@usfgrjk",
+            "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
          {
-            "name": "🐬地方直播2 TG:@usfgrjk",
+            "name": "🐬地方直播2",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
         {
-            "name": "🐬电视家 TG:@usfgrjk",
+            "name": "🐬电视家",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u"
@@ -731,7 +683,7 @@
             "name": "🐬Gather",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://tv.iill.top/m3u/Gather"
+            "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
         {
             "name": "🐬Mytv",
