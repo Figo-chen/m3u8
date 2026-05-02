@@ -1,5 +1,5 @@
 {
-  "spider": "tvbox.jar",
+  "spider": "./tvbox.jar",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
   "sites": [
@@ -759,14 +759,6 @@
     }
   ],
   "rules": [
-   {"name":"云解析",
-        "type":0,
-        "url":"https://yparse.ik9.cc/index.php?url=",
-        "ext":{
-        "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-                }
-            }
-        },  
     {
       "name": "proxy",
       "hosts": [
@@ -865,7 +857,15 @@
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
-    }
+    },
+  {"name":"云解析",
+        "type":0,
+        "url":"https://yparse.ik9.cc/index.php?url=",
+        "ext":{
+        "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        }
   ],
   "ads": [
     "mozai.4gtv.tv",
