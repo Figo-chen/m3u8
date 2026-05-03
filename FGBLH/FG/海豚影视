@@ -40,7 +40,9 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
 {"key": "华视影院","name": "🐬华视影院｜追剧","type": 4,"api": "http://zhangqun1818.serv00.net:5052/?sp=华视影院","searchable": 1,"quickSearch": 1,"filterable": 1},
-      {
+{"key": "火狐","name": "🐬火狐影视🦊｜追剧","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]
+},
+   {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
       "type": 1,
@@ -124,7 +126,17 @@
         "海外动漫"
          ]
          },  
-        {
+         {
+            "key": "七星短剧",
+            "name": "🐬七星丨短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
 			"type": 3,
@@ -627,12 +639,13 @@
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
-       {
+        {
             "name": "🐬综合直播",
             "type": 0,
-            "ua": "bingcha/1.1 (mianfeifenxiang) ",
+            "playerType": 2,
             "url": "https://ds65.tv1288.xyz",
-        },
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+         },
          {
             "name": "🐬地方直播",
             "type": 0,
@@ -704,12 +717,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://t.freetv.fun/m3u/playlist.txt"
-        },
-        {
-            "name": "🐬台湾欢乐看源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://ezc.xtvantsc.xyz/欢乐看.txt"
         },
         {
             "name": "🐬4GTV(梯子台湾节点)",
