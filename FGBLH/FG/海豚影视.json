@@ -1,3 +1,4 @@
+
 {
     "spider": "./tvbox.jar",
     "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
@@ -68,6 +69,7 @@
         "日韩动漫"
       ]
     },
+      
       {
             "key": "牛牛影视",
             "name": "🐬牛牛影视｜追剧",
@@ -147,8 +149,8 @@
     },
 {"key": "华视影院","name": "🐬华视影院｜追剧","type": 4,"api": "http://zhangqun1818.serv00.net:5052/?sp=华视影院","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "火狐","name": "🐬火狐影视🦊｜追剧","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]
-},      
-      {
+},
+   {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
       "type": 1,
@@ -220,7 +222,7 @@
         "海外动漫"
          ]
          },  
-        {
+         {
             "key": "七星短剧",
             "name": "🐬七星丨短剧",
             "type": 3,
@@ -230,7 +232,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
       "key": "cj_360资源",
       "name": "🐬360丨短剧",
       "type": 1,
@@ -249,7 +251,7 @@
         "成长逆袭"
       ]
     },
-        {
+         {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
 			"type": 3,
@@ -260,7 +262,97 @@
 			"name": "🐬网易云1｜音乐",
 			"type": 3,
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
-		}
+		},
+         {
+      "key": "*AIvin",
+      "name": "🐬AIvin｜🔞",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "大地采集",
+      "name": "🐬大地av｜🔞",
+      "type": 0,
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "*番号资源",
+      "name": "🐬番号资源｜🔞",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+         {
+            "key": "黄色仓库|AV",
+            "name": "🐬黄色仓库(旧)｜🔞",
+            "type": 1,
+            "api": "https://hsckzy.vip/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+         {
+            "key": "桃花资源|AV",
+            "name": "🐬桃花资源｜🔞",
+            "type": 1,
+            "api": "https://thzy1.me/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+       {
+            "key": "乐播资源|AV",
+            "name": "🐬乐播资源｜🔞",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+       {
+      "key": "fqzy资源",
+      "name": "🐬国产资源｜🔞",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "黑料网曝",
+        "国产大制作",
+        "偷拍自拍",
+        "高清无码",
+        "乱伦毁三观",
+        "淫乱学生",
+        "主播女网红",
+        "高清有码",
+        "中文字幕",
+        "动漫精选",
+        "欧美精品"
+      ]
+    },
+        {
+            "key": "lsb资源|AV",
+            "name": "🐬lsb资源｜🔞",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+        {
+            "key": "91",
+            "name": "🐬传媒系列｜🔞(梯子)",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1
+        }
         ],
     "parses": [ 
            {
@@ -345,6 +437,69 @@
 				}
 			}
 		},
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "新视觉嗅探",
+      "hosts": [
+        "muzhi-video.bj.bcebos.com"
+      ],
+      "regex": [
+        "202403/"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市點擊",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
   {
             "name": "默认1",
             "type": 1,
@@ -537,7 +692,8 @@
     }
    ],
     "ads": [
-        "static-mozai.4gtv.tv"
+        "static-mozai.4gtv.tv",
+        "pv.vipwm.cc"
     ],
 "lives": [
          {
@@ -553,7 +709,7 @@
             "url": "https://ds65.tv1288.xyz",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
          },
-        {
+         {
             "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
@@ -614,6 +770,24 @@
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
         {
+            "name": "🐬易发源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+        },
+        {
+            "name": "🐬俄罗斯源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://m3u.ch/pl/402fdf5102aacfc997279fd904643392_78d493be9df8cf5d447946793758bfa6.m3u"
+        },
+       {
+            "name": "🐬飞扬源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
+        },
+        {
             "name": "🐬港奥台国际",
             "type": 0,
             "ua": "okhttp",
@@ -632,6 +806,12 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
         },
         {
+            "name": "🐬安博卡顿(梯子)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博.txt"
+        },
+        {
             "name": "🐬jackTV(梯子)",
             "type": 0,
             "ua": "okhttp",
@@ -648,6 +828,96 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+        { 
+	        "name": "🐬午夜剧场🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/午夜剧场.txt"
+        },
+	    {
+            "name": "🐬海豚佬xxx视频资源🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+        },
+        {
+            "name": "🐬欧美大片直播🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/欧美2160.m3u"
+        },
+         {
+            "name": "🐬日本女优1🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
+        },
+        {
+            "name": "🐬日本女优2🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
+        },
+        {
+            "name": "🐬日本女优3🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
+        },
+        {
+            "name": "🐬日本女优4🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
+        },
+        {
+            "name": "🐬日本女优5🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
+        },
+        {
+            "name": "🐬日本女优6🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
+        },
+        {
+            "name": "🐬日本女优7🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
+        },
+         {
+            "name": "🐬日本女优8🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
+        },
+         {
+            "name": "🐬日本女优9🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
+        },
+         {
+            "name": "🐬日本女优10🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
+        },
+         {
+            "name": "🐬日本女优11🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
+        },
+        {
+            "name": "🐬日本女优12🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
         }
-    ]
+   ]
 }
