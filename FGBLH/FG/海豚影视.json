@@ -1,4 +1,3 @@
-
 {
     "spider": "./tvbox.jar",
     "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
@@ -297,7 +296,15 @@
             "searchable": 1,
             "filterable": 0
         },
-         {
+        {
+            "key": "xjzyw",
+             "name": "🐬香蕉｜🔞",
+             "type": 1,
+            "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+             "searchable": 1,
+             "quickSearch": 1
+        }, 
+		{
             "key": "桃花资源|AV",
             "name": "🐬桃花资源｜🔞",
             "type": 1,
@@ -770,7 +777,7 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
         },
         {
-            "name": "🐬俄罗斯源",
+            "name": "🐬俄罗斯源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://m3u.ch/pl/402fdf5102aacfc997279fd904643392_78d493be9df8cf5d447946793758bfa6.m3u"
@@ -780,12 +787,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
-        },
-         {
-            "name": "🐬斯玛特源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://xsmt.ccwu.cc/xsmt/smt.php"
         },
 	    {
             "name": "🐬港奥台国际",
@@ -806,7 +807,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
         },
         {
-            "name": "🐬安博(梯子)卡顿",
+            "name": "🐬安博(梯子)卡顿 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博.txt"
