@@ -704,7 +704,7 @@
     ],
 "lives": [
          {
-            "name": "🐬各大源合集",
+            "name": "🐬各大源合集 海豚影视永久免费如有收费的都是骗子",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
@@ -715,6 +715,13 @@
             "playerType": 2,
             "url": "https://ds65.tv1288.xyz",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
+         },
+	     {
+            "name": "🐬电视家",
+            "type": 0,
+            "playerType": 2,
+             "ua": "okhttp",
+			 "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
          },
          {
             "name": "🐬地方直播",
@@ -728,12 +735,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
-        {
-            "name": "🐬电视家",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u"
-        },
         {
             "name": "🐬裤佬TV",
             "type": 0,
