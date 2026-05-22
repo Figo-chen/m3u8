@@ -590,6 +590,12 @@
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
+         {
+            "name": "🐬singtel(梯子)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/singtel.txt"
+        },
         {
             "name": "🐬黄蚂蚁先锋推流源",
             "type": 0,
@@ -624,7 +630,7 @@
             "name": "🐬4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
         },
         {
             "name": "🐬jackTV(梯子)",
