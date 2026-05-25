@@ -29,6 +29,10 @@ https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌
 
 ### 2、调试助手
 
+### 3、UZvideo
+
+ - https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sources_default.json
+
 ## 在线播放
 
 ### 1、LibreTV
