@@ -33,10 +33,10 @@ https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌
 
 ### 2、MoonTV
 
-### 3、LunaTV
+### 3、LunaTV / KVideo
 
-- **每天0点随 hafrey1/LunaTV-config 自动更新，适用于KVideo订阅：**
+- **每天0点随直播源 [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) 自动更新，适用于KVideo订阅：**
 - https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/KVideo/kvideo.json
 
-### 4、KVideo
+### 4、
 
