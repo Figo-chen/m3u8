@@ -94,10 +94,28 @@ http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 
 #EXTINF:-1 group-title="🛰️汕头台",汕头综合
 http://pr.19760929.xyz:9688/rtp/239.253.43.45:5146#http://129.211.14.102:25000/gdst.php?id=st1&token=www.9kds.com
-#EXTINF:-1 group-title="🛰️汕头台",汕头综合
-http://dslive.grtn.cn/stzh/sd/live.m3u8
 #EXTINF:-1 group-title="🛰️汕头台",汕头经济
 http://pr.19760929.xyz:9688/rtp/239.253.43.46:5146#http://129.211.14.102:25000/gdst.php?id=st2&token=www.9kds.com
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-3.ctv
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-4.ctv
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-6.ctv
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-1.ctv
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-3.ctv
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -251,6 +269,14 @@ http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+https://p.iptv200.com/play.php?token=ZKt4QKTM26NWMG1HIhO3HUFf&tid=gt&id=1&p=0#.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+https://p.iptv200.com/play.php?token=ZKt4QKTM26NWMG1HIhO3HUFf&tid=gt&id=1&p=1#.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+https://p.iptv200.com/play.php?token=ZKt4QKTM26NWMG1HIhO3HUFf&tid=gt&id=1&p=2#.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+https://p.iptv200.com/play.php?token=ZKt4QKTM26NWMG1HIhO3HUFf&tid=gt&id=1&p=3#.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
@@ -290,6 +316,44 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 tvg-id="香港有线" tvg-name="香港有线" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港有线.png" group-title="🌊港·澳·台",香港有线
+https://p.iptv200.com/play.php?token=u/FO5Do4%2B6xcST4Cc9HRu0Zq&tid=gt&id=11&p=0#.m3u8
+#EXTINF:-1 tvg-id="香港有线" tvg-name="香港有线" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港有线.png" group-title="🌊港·澳·台",香港有线
+https://t1.iptv200.com/live/hoy78/index.m3u8?session=azz5w5l1k5tl9flh5s94acqk0plppb6f
+#EXTINF:-1 tvg-id="香港有线" tvg-name="香港有线" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港有线.png" group-title="🌊港·澳·台",香港有线
+https://p.iptv200.com/play.php?token=u/FO5Do4%2B6xcST4Cc9HRu0Zq&tid=gt&id=11&p=1#.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+https://p.iptv200.com/play.php?token=2AwOj%2F5PoB84990Grxwg%2FNLy&tid=gt&id=43&p=0#.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="🌊港·澳·台",东森新闻
+https://p.iptv200.com/play.php?token=WkRMCKqVy608PtGuHjFpU4ht&tid=gt&id=44&p=0#.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="🌊港·澳·台",东森新闻
+https://p.iptv200.com/play.php?token=WkRMCKqVy608PtGuHjFpU4ht&tid=gt&id=44&p=1#.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻.png" group-title="🌊港·澳·台",东森新闻
+https://p.iptv200.com/play.php?token=WkRMCKqVy608PtGuHjFpU4ht&tid=gt&id=44&p=2#.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视新闻.png" group-title="🌊港·澳·台",中视新闻
+https://p.iptv200.com/play.php?token=vT933NpXmo9Stqe6nMjwdkLv&tid=gt&id=46&p=0#.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视新闻.png" group-title="🌊港·澳·台",中视新闻
+https://p.iptv200.com/play.php?token=vT933NpXmo9Stqe6nMjwdkLv&tid=gt&id=46&p=1#.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视新闻.png" group-title="🌊港·澳·台",中视新闻
+https://t2.iptv200.com/live/zsxw/index.m3u8?session=0wyw62k3mysn6kyi44ifsgj5v70ncsyy
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🌊港·澳·台",三立新闻
+https://p.iptv200.com/play.php?token=xmEWacAPxg9QoWDrOEy9zUPw&tid=gt&id=48&p=0#.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🌊港·澳·台",三立新闻
+https://t2.iptv200.com/live/slxw/index.m3u8?session=ftioli7227jzoqxhj899nhb8tjzisyei
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="🌊港·澳·台",三立新闻
+https://t1.iptv200.com/live/slxw/index.m3u8?session=lrq5xxx821v3dcelyt1et2bn0v2lu9je
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻.png" group-title="🌊港·澳·台",寰宇新闻
+https://p.iptv200.com/play.php?token=0h5MfpFm7%2Fbi1NrUz5VJWjbK&tid=gt&id=53&p=0#.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻.png" group-title="🌊港·澳·台",寰宇新闻
+https://t1.iptv200.com/live/hyxw/index.m3u8?session=c463t8dspmerj5kgzwxel9u90m82wq4j
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇新闻.png" group-title="🌊港·澳·台",寰宇新闻
+https://t2.iptv200.com/live/hyxw/index.m3u8?session=5h8equu4m9u1wwpr401fmmf7gkccolm8
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="🌊港·澳·台",TVBS新闻
+https://p.iptv200.com/play.php?token=b%2FdG%2FI2Gv79jIBWsBw7cOZFL&tid=gt&id=55&p=0#.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="🌊港·澳·台",TVBS新闻
+https://p.iptv200.com/play.php?token=b%2FdG%2FI2Gv79jIBWsBw7cOZFL&tid=gt&id=55&p=1#.m3u8
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS新闻.png" group-title="🌊港·澳·台",TVBS新闻
+https://t3.iptv200.com/live/tvbsxw/index.m3u8?session=vlrn62mppg94m3w3dxxodsjw7us3rk2v
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳·台",纬来体育
