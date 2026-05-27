@@ -2,16 +2,16 @@
 
 ## 直播
 
- - [速度快，有汕头台])：https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png
- - [🛰️Govin，有汕头台](https://github.com/Guovin)：https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
- - [宫殿，有汕头台](https://gongdian.top/)：https://gongdian.top/tv/iptv
- - [大🐜蚂蚁，18+](http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt)：http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt
+ - [taoBox2620](https://github.com/taoBox2620/taoBox2620)：速度快，有汕头台 https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png
+ - [🛰️Govin](https://github.com/Guovin)：有汕头台 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+ - [宫殿](https://gongdian.top/)：有汕头台 https://gongdian.top/tv/iptv
+ - [大🐜蚂蚁](http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt)：18+ http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt
 
 ### 0、FGBLH 作者仓库跟踪
-每日自动同步 [FGBLH](https://github.com/FGBLH) 的 3 个仓库内容：
-- **[FG](https://github.com/FGBLH/FG)** - 免费更新直播源给大家
+每日自动同步 [FGBLH](https://github.com/FGBLH) 的 2 个仓库内容：
+- **[现GHK](https://github.com/FGBLH/GHK)/[原FG](https://github.com/FGBLH/FG)** - 免费更新直播源给大家
 - **[fgrjk](https://github.com/FGBLH/fgrjk)** - 直播源、梯子
-- **[fgrjk2](https://github.com/FGBLH/fgrjk2)** - 直播源
+- [fgrjk2](https://github.com/FGBLH/fgrjk2) - 直播源，已经不存在
 
 ### 1、ZY-Player
 
