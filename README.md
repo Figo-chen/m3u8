@@ -63,3 +63,12 @@
  - [三立新闻台 - 電視直播](https://m.234iptv.com/?act=play&token=d4e832c963a196640ee14f19b94c6d21&tid=gt&id=48)
  - [非凡新闻 - 電視直播](https://m.234iptv.com/?act=play&token=5b9d9828499f0a69c72c4266b7aeeea2&tid=gt&id=49)
  - [镜电视新闻台 - 電視直播](https://m.234iptv.com/?act=play&token=691546ec08d373877d3a2c01272053e3&tid=gt&id=52)
+
+#### 4.2、[歡樂看 Fain TV](https://www.faintv.com/channel)：台湾频道在线看
+ - [鳳凰衛視中文台](https://www.faintv.com/channel/204)
+ - [鳳凰衛視資訊台](https://www.faintv.com/channel/120)
+ - [鳳凰衛視香港台](https://www.faintv.com/channel/18965)
+ - [華視新聞台](https://www.faintv.com/channel/12891)
+ - [寰宇新聞台](https://www.faintv.com/channel/136)
+ - [台視新聞台](https://www.faintv.com/channel/19366)
+ - 其它频道可进入后换台
