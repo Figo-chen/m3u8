@@ -1384,6 +1384,19 @@ CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8
 台视新闻HD 1080p,http://74.91.26.218:82/live/ttvnews.m3u8
 民視新聞台1080p,http://74.91.26.218:82/live/ftvnews.m3u8
 非凡新聞HD 720p,rtmp://f13h.mine.nu/sat/tv581
+寰宇新聞,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+中天新聞,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+民視新聞,http://156.238.248.80:5566/4gtv-live413/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+民視新聞,http://156.238.248.80:5566/litv-ftv13/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+民視新聞,http://211.72.174.95:8117/0.ts
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+寰宇新闻台,https://pull-wsu.liveonlinetest.com:443/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-hyxw.flv
+寰宇新闻台,http://rihou.cc:555/tv/寰宇新闻
+寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+台視新聞台,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 
 港澳台等,#genre#
 鳳凰衛視FHD,https://t.freetv.fun/live/feng-huang-wei-shi-xiang-gang-1.m3u8
@@ -1773,6 +1786,100 @@ Fashion TV,https://t.freetv.fun/live/fashion-finds-1.m3u8
 Fashion TV,https://t.freetv.fun/live/fashion-tv-2.m3u8
 Fashion TV,https://t.freetv.fun/live/fashion-finds-1.m3u8
 Fashion World,https://t.freetv.fun/live/world-fashion-channel-en.m3u8
+
+中天新闻,http://rihou.cc:555/tv/中天新闻
+中天亚洲#http://rihou.cc:555/tv/中天亚洲
+中天综合#http://rihou.cc:555/tv/中天综合
+中天娱乐#http://rihou.cc:555/tv/中天娱乐
+寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
+寰宇台湾,http://rihou.cc:555/tv/寰宇台湾
+东森新闻,http://rihou.cc:555/tv/东森新闻
+东森美洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/2016/playlist.m3u8
+东森中国,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/2003/playlist.m3u8
+东森美洲,http://udnhls.skilldns.com:80/dsxw.m3u8
+TVBS,http://rihou.cc:555/tv/TVBS1
+TVBS NEWS,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+镜新闻,http://rihou.cc:555/tv/镜新闻
+民视新闻,http://rihou.cc:555/tv/民视新闻
+华视新闻,http://rihou.cc:555/tv/华视新闻
+中视新闻#http://rihou.cc:555/tv/中视新闻 
+台视新闻,http://rihou.cc:555/tv/台视新闻 
+年代新闻#http://rihou.cc:555/tv/年代新闻
+台湾生活,http://rihou.cc:555/tv/台湾生活
+民视新闻,http://211.72.174.95:8117/0.ts$原生解码最佳
+中视,http://211.72.174.95:8113/0.ts$原生解码最佳
+华视,http://211.72.174.95:8114/0.ts$原生解码最佳
+公视,http://211.72.174.95:8116/0.ts$原生解码最佳
+民视,http://211.72.174.95:8115/0.ts$原生解码最佳
+台视,http://211.72.174.95:8112/0.ts$原生解码最佳
+民视影剧,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影剧,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+影迷数位电影,https://cdn12.178.indevs.in/163189/a643783ec587540e
+amc电影,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+经典电影,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO亲子,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戏,http://iptv.4666888.xyz/iptv2A.php?id=38
+民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+韩流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
+娱乐百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+综艺大赢家,http://iptv.4666888.xyz/iptv2A.php?id=65
+
+民视,rtmp://f13h.mine.nu/sat/tv051
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
+NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
+Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
+TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
+NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
+Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+新唐人,http://rihou.cc:555/tv/NTD
+Love Nature,http://rihou.cc:555/tv/LoveNature 
+Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+动物星球 
+Discovery 
+国家地理 
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+NatGeo Wild
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8 
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+
 
 大🐜蚂蚁試看港澳台頻道,#genre#
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
