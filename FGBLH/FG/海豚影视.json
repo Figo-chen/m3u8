@@ -774,7 +774,7 @@
             "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
         },
 	    {
-            "name": "🐬UnifiTV",
+            "name": "🐬UnifiTV(马来节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
