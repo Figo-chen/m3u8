@@ -29,6 +29,22 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
         },
+		 {
+      "key": "天涯资源",
+      "name": "🐬天涯资源",
+      "type": 0,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+	{
+      "key": "iKun资源",
+      "name": "🐬iKun资源",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    },
 	{
       "key": "闪电影视",
       "name": "🐬闪电影视｜追剧",
@@ -250,6 +266,15 @@
         "成长逆袭"
       ]
     },
+		{
+      "key": "旺旺资源",
+      "name": "🐬旺旺短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
          {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
@@ -262,17 +287,6 @@
 			"type": 3,
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
-       {
-            "key": "hhh",
-            "name": "🐬truvaze｜🔞",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://od.lk/s/NjFfMTI2OTY0NTk3Xw/truvaze.py",
-            "order_num": 5,
-            "ext": ""
-        }, 
 	{
       "key": "*AIvin",
       "name": "🐬AIvin｜🔞",
@@ -829,7 +843,7 @@
             "name": "🐬俄罗斯源 有🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://m3u.ch/pl/402fdf5102aacfc997279fd904643392_78d493be9df8cf5d447946793758bfa6.m3u"
+            "url": "https://m3u.biluspeh.com/hls/token=M4xovdRfcMXMXS9M"
         },
        {
             "name": "🐬飞扬源",

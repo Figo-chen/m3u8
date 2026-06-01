@@ -29,6 +29,14 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
         },
+        {
+      "key": "天涯资源",
+      "name": "🐬天涯资源",
+      "type": 0,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
       "key": "闪电影视",
       "name": "🐬闪电影视｜追剧",
@@ -248,6 +256,15 @@
         "女频恋爱",
         "成长逆袭"
       ]
+    },
+       {
+      "key": "旺旺资源",
+      "name": "🐬旺旺短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
     },
         {
 			"key": "网易云音乐",
