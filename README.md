@@ -43,7 +43,7 @@
 
 ### 2、MoonTV
 
-### 3、LunaTV / KVideo
+### 3、LunaTV / KVideo / NextTV（待确认）
 
 - **每天0点随直播源 [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) 自动更新，适用于KVideo订阅：**<br> https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/KVideo/kvideo.json
 
