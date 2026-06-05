@@ -6,7 +6,7 @@
     "sites": [
         {
          "key":"AQY",
-        "name":"🐬爱奇艺 海豚影视永久免费，如有收费的都是骗子",
+        "name":"🐬爱奇艺 海豚影视完全免费，如有收费的都是骗子",
         "type":3,
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
@@ -896,15 +896,8 @@
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
-        {
-            "name": "🐬综合直播 海豚影视交流群 TG：@hshsjk9 ",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://ds65.tv1288.xyz",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-         },
 	     {
-            "name": "🐬综合直播2",
+            "name": "🐬综合直播 海豚影视交流群 TG：@hshsjk9",
             "type": 0,
             "playerType": 2,
             "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
@@ -984,12 +977,6 @@
             "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
         },
         {
-            "name": "🐬港台",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
-        },
-        {
             "name": "🐬风云源",
             "type": 0,
             "ua": "okhttp",
@@ -1026,13 +1013,13 @@
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
         {
-            "name": "🐬4GTV(梯子台湾节点)",
+            "name": "🐬4GTV(梯子台湾节点)720p",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
         },
 	    {
-            "name": "🐬4GTV2",
+            "name": "🐬4GTV(梯子任何节点)1080p",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
