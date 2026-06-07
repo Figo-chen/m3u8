@@ -68,14 +68,6 @@
         "海外动漫"
       ]
     },
-     {
-      "key": "iKun资源",
-      "name": "🐬iKun资源(有三级片)",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1
-    },
     {
       "key": "闪电影视",
       "name": "🐬闪电影视｜追剧",
@@ -661,7 +653,7 @@
             "name": "🐬中港台直播源",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://t.freetv.fun/m3u/playlist.txt"
+            "url": "https://t.freetv.fun/m3u/playlist_all.txt"
         },
         {
             "name": "🐬4GTV(梯子台湾节点)720p",
@@ -680,12 +672,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        },
-        {
-            "name": "🐬新港台频道",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
         },
         {
             "name": "🐬台湾频道(梯子台湾节点)",
