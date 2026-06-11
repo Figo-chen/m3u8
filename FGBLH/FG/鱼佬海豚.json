@@ -369,7 +369,14 @@
         "api":"csp_MissAV",
         "homePage":"https://fgblh.github.io/uhuj.github.io/WhosTV.html"
         },
-	{
+	    {
+        "key":"otcAV",
+        "name":"🐬otcAV🔞",
+        "type":3,
+        "api":"csp_otcav",
+        "homePage":"https://fgblh.github.io/uhuj.github.io/otcav.html"
+        },
+		{
       "key": "*AIvin",
       "name": "🐬AIvin｜🔞",
       "type": 0,
@@ -549,22 +556,16 @@
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
 		{
+            "name": "🐬台湾台",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+		{
             "name": "🐬体育台",
             "type": 0,
             "ua": "okhttp",
             "url": "http://82.156.243.185:33389/fwc.m3u"
-        },
-		{
-            "name": "🐬atryffad源 有🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/atryffad.txt"
-        },
-		{
-            "name": "🐬国际TV 有🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
         },
 	    {
             "name": "🐬国际TV",
@@ -624,7 +625,7 @@
             "name": "🐬俄罗斯源 有🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://m3u.biluspeh.com/hls/token=M4xovdRfcMXMXS9M"
+            "url": "https://ilook.epg.one/EDTZN7ANS84N86"
         },
        {
             "name": "🐬飞扬源",
@@ -667,12 +668,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        },
-        {
-            "name": "🐬台湾频道(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
         { 
 	        "name": "🐬午夜剧场(梯子)🔞",
