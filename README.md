@@ -33,7 +33,7 @@
 
 ### 2、FongMi/影视/OK影视
 
- - [爬虫hafrey1/LunaTV-config转格式]（https://github.com/JE668/LunaTV-config-to-OmniBox-config）：
+ - [爬虫hafrey1/LunaTV-config转格式](https://github.com/JE668/LunaTV-config-to-OmniBox-config) ：
    https://github.com/JE668/LunaTV-config-to-OmniBox-config/blob/main/converted_data.json
 
 ### 3、UZvideo
