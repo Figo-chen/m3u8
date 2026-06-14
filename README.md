@@ -25,17 +25,22 @@
 
 ### 1、TVBOX
 ####  1.1、多仓
-[自有多仓](https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/自有多仓.json)：<br>https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/自有多仓.json
+ - [自有多仓](https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/自有多仓.json)：<br>https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/自有多仓.json
 
-[欧歌多仓](https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌多仓.json)：<br>https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌多仓.json
+ - [欧歌多仓](https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌多仓.json)：<br>https://raw.githubusercontent.com/lyqnihao/m3u8/refs/heads/master/collect/欧歌多仓.json
 
 ####  1.2、单仓
 
-### 2、调试助手
+### 2、FongMi/影视/OK影视
+
+ - [爬虫hafrey1/LunaTV-config转格式]（https://github.com/JE668/LunaTV-config-to-OmniBox-config）：
+   https://github.com/JE668/LunaTV-config-to-OmniBox-config/blob/main/converted_data.json
 
 ### 3、UZvideo
 
  - https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sources_default.json
+
+### 2、调试助手
 
 ## 在线播放
 
