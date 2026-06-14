@@ -34,7 +34,7 @@
 ### 2、FongMi/影视/OK影视
 
  - [JE668/LunaTV-config-to-OmniBox-config](https://github.com/JE668/LunaTV-config-to-OmniBox-config) ：爬取 [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) 转格式<br>
-   https://github.com/JE668/LunaTV-config-to-OmniBox-config/blob/main/converted_data.json
+   https://raw.githubusercontent.com/JE668/LunaTV-config-to-OmniBox-config/refs/heads/main/converted_data.json
 
 ### 3、UZvideo
 
