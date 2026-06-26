@@ -2199,6 +2199,11 @@
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
         },
+		{
+      "name": "解析7",
+      "type": 0,
+      "url": "http://rihou.cc:88/demo.php?url="
+        },
         {
             "name": "冰豆",
             "type": 0,
