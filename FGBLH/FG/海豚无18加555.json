@@ -46,6 +46,12 @@
           "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
 		{
+			"key": "fY",
+			"name": "🐬枫叶影院(关梯子使用)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/枫叶影院.py"
+		},
+		{
       "key": "非凡",
       "name": "🐬非凡影视",
       "type": 1,
