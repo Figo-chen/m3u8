@@ -140,7 +140,7 @@
       "id": "18",
       "name": "🎬金鹰点播",
       "key": "jinyingzy.com",
-      "url": "https://jinyingzy.com/api.php/provide/vod",
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "enabled": true,
       "type": "video"
     },
@@ -188,7 +188,7 @@
       "id": "24",
       "name": "🎬如意资源",
       "key": "www.ryzyw.com",
-      "url": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod",
       "enabled": true,
       "type": "video"
     },
@@ -196,7 +196,7 @@
       "id": "25",
       "name": "🎬豪华资源",
       "key": "www.haohuazy.com",
-      "url": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
       "enabled": true,
       "type": "video"
     },
@@ -266,14 +266,6 @@
     },
     {
       "id": "34",
-      "name": "🔞优优资源",
-      "key": "www.yytv4.cc",
-      "url": "https://www.yytv4.cc/api.php/provide/vod",
-      "enabled": true,
-      "type": "video"
-    },
-    {
-      "id": "35",
       "name": "🔞小鸡资源",
       "key": "xiaojizy.live",
       "url": "https://api.xiaojizy.live/provide/vod",
@@ -281,7 +273,7 @@
       "type": "video"
     },
     {
-      "id": "36",
+      "id": "35",
       "name": "🔞黄色仓库",
       "key": "hsckzy.xyz",
       "url": "https://hsckzy.xyz/api.php/provide/vod",
@@ -289,7 +281,7 @@
       "type": "video"
     },
     {
-      "id": "37",
+      "id": "36",
       "name": "🔞-大奶子-",
       "key": "apidanaizi.com",
       "url": "https://apidanaizi.com/api.php/provide/vod",
@@ -297,7 +289,7 @@
       "type": "video"
     },
     {
-      "id": "38",
+      "id": "37",
       "name": "🔞jkun资源",
       "key": "jkunzyapi.com",
       "url": "https://jkunzyapi.com/api.php/provide/vod",
@@ -305,7 +297,7 @@
       "type": "video"
     },
     {
-      "id": "39",
+      "id": "38",
       "name": "🔞乐播资源",
       "key": "lbapi9.com",
       "url": "https://lbapi9.com/api.php/provide/vod",
@@ -313,7 +305,7 @@
       "type": "video"
     },
     {
-      "id": "40",
+      "id": "39",
       "name": "🔞奶香资源",
       "key": "Naixxzy.com",
       "url": "https://Naixxzy.com/api.php/provide/vod",
@@ -321,7 +313,7 @@
       "type": "video"
     },
     {
-      "id": "41",
+      "id": "40",
       "name": "🔞森林资源",
       "key": "slapibf.com",
       "url": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -329,15 +321,15 @@
       "type": "video"
     },
     {
-      "id": "42",
+      "id": "41",
       "name": "🔞辣椒资源",
       "key": "apilj.com",
-      "url": "https://pz.v88.qzz.io/?url=https://apilj.com/api.php/provide/vod",
+      "url": "https://apilj.com/api.php/provide/vod",
       "enabled": true,
       "type": "video"
     },
     {
-      "id": "43",
+      "id": "42",
       "name": "🔞鲨鱼资源",
       "key": "shayuapi.com",
       "url": "https://shayuapi.com/api.php/provide/vod",
@@ -345,7 +337,7 @@
       "type": "video"
     },
     {
-      "id": "44",
+      "id": "43",
       "name": "🔞滴滴资源",
       "key": "didizy.com",
       "url": "https://api.ddapi.cc/api.php/provide/vod",
@@ -353,7 +345,7 @@
       "type": "video"
     },
     {
-      "id": "45",
+      "id": "44",
       "name": "🔞黑料资源",
       "key": "heiliaozy.cc",
       "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
@@ -361,7 +353,7 @@
       "type": "video"
     },
     {
-      "id": "46",
+      "id": "45",
       "name": "🔞百万资源",
       "key": "api.bwzym3u8.com",
       "url": "https://api.bwzyz.com/api.php/provide/vod",
@@ -369,7 +361,7 @@
       "type": "video"
     },
     {
-      "id": "47",
+      "id": "46",
       "name": "🔞桃花资源",
       "key": "thzy8.me",
       "url": "https://thzy1.me/api.php/provide/vod",
@@ -377,7 +369,7 @@
       "type": "video"
     },
     {
-      "id": "48",
+      "id": "47",
       "name": "🔞精品资源",
       "key": "www.jingpinx.com",
       "url": "https://www.jingpinx.com/api.php/provide/vod",
@@ -385,7 +377,7 @@
       "type": "video"
     },
     {
-      "id": "49",
+      "id": "48",
       "name": "🔞souavZY",
       "key": "souavzyw.com",
       "url": "https://api.souavzyw.net/api.php/provide/vod",
