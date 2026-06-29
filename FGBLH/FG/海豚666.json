@@ -1,3 +1,4 @@
+
 {
     "spider": "./tvbox.jar",
     "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
@@ -70,10 +71,23 @@
             }
         },
 		{
+      "key": "ppx",
+      "name": "🐬皮皮虾.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
+      "ext": "http://43.248.117.123:4680"
+       },
+		{
 			"key": "fY",
 			"name": "🐬枫叶影院(关梯子使用)",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/枫叶影院.py"
+		},
+		{
+			"key": "rb",
+			"name": "🐬热播APP.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/热播APP.py"
 		},
 		{
 			"key": "kf",
@@ -387,6 +401,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/色播聚合.py"
 		},
 		{
+			"key": "stripchat",
+			"name": "🐬stripchat直播.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/stripchat.py"
+		},
+		{
 			"key": "007qg",
 			"name": "🐬007吃瓜.py｜🔞",
 			"type": 3,
@@ -411,6 +431,18 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51爆料.py"
 		},
 		{
+			"key": "91bl",
+			"name": "🐬91爆料.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/91爆料.py"
+		},
+		{
+			"key": "91qgzx",
+			"name": "🐬91吃瓜中心.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/91吃瓜中心.py"
+		},
+		{
 			"key": "scpd",
 			"name": "🐬香肠派对.py｜🔞",
 			"type": 3,
@@ -427,6 +459,12 @@
 			"name": "🐬123AV.py｜🔞",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/123AV.py"
+		},
+		{
+			"key": "Xvideos",
+			"name": "🐬Xvideos.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Xvideos.py"
 		},
 		{
 			"key": "JAV36",
@@ -448,7 +486,7 @@
 		},
 		{
 			"key": "VHUB",
-			"name": "🐬VHUB[成人].py｜🔞",
+			"name": "🐬VHUB.py｜🔞",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/VHUB[成人].py"
 		},
