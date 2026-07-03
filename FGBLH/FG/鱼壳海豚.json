@@ -525,18 +525,6 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/红果短剧.py"
 		},
-         {
-			"key": "网易云音乐",
-			"name": "🐬网易云｜音乐",
-			"type": 3,
-			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐.py"
-		},
-		{
-			"key": "网易云音乐1",
-			"name": "🐬网易云1｜音乐",
-			"type": 3,
-			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
-		},
 		{
             "key": "捡的音乐",
             "name": "🐬爱听音乐",
@@ -609,10 +597,22 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/91吃瓜中心.py"
 		},
 		{
-			"key": "xmzb",
+			"key": "mrds",
+			"name": "🐬每日大赛.py｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/每日大赛.py"
+		},
+		{
+			"key": "xmvm",
 			"name": "🐬熊猫视频.py｜🔞[成人]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫视频.py"
+		},
+		{
+			"key": "shvm",
+			"name": "🐬四虎视频.py｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/四虎视频.py"
 		},
 		{
 			"key": "scpd",
